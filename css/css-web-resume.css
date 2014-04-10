@@ -60,9 +60,7 @@ nav ul li {
  	background-color: #E6E6FA; 
 }
 
-#blog nav{border: none;
 
-}
 footer {
 	text-align: center;}
 
@@ -86,7 +84,11 @@ footer{display: none;}
 nav ul li{
 	display: block;
 	border-width: 3px; 
+	background-color: white;
+
 }
+
+
 
 
 
