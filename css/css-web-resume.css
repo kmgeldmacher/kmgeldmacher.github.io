@@ -83,8 +83,9 @@ footer{display: none;}
 
 nav ul li{
 	display: block;
-	border-width: 3px; 
+	border: 2px solid #483D8B; 
 	background-color: white;
+
 
 }
 
