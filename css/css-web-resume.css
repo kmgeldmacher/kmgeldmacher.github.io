@@ -81,7 +81,7 @@ a:hover{
 
 footer{display: none;}
 
-nav{
+nav ul li{
 	display: block;
 }
 
