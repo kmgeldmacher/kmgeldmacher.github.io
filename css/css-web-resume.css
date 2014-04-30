@@ -1,6 +1,6 @@
 header {
-	background-color: #E6E6FA;
-	color: #483D8B; 
+	background-color: white;
+	color: #708090; 
 	text-align: center;}
 
 
@@ -19,29 +19,29 @@ p{
 
 h2{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: #708090;}
 
 
 h3{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: #708090;}
 
 
 h4{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: #708090;}
 
 
 h5{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: #708090;}
 
 
  body{
  	font-family: 'Gudea', sans-serif;
  	color: black;
- 	border: 6px solid white;
- 	background: #E6E6FA;
+ 	border: 6px solid black;
+ 	background: white;
  	margin: 50px auto; 
  	padding: 20px; 
  	max-width: 90%; 
@@ -54,10 +54,10 @@ h5{
 
 nav ul li {
  	display: inline;
- 	border: 2px solid white;
+ 	border: 2px solid black;
  	padding: 5px; 
  	margin: 10px;
- 	background-color: #E6E6FA; 
+ 	background-color: white; 
 }
 
 
@@ -69,8 +69,12 @@ a:link {
 	text-decoration: none; 
 	color: black; }
 
+a:visited {
+	color: #FFC0CB; 
+}
+
 a:hover{
-	color: white;}
+	color: #F08080;}
  
 @media only screen and (max-device-width:320px){
 	
@@ -88,7 +92,9 @@ nav ul li{
 
 }
 
-a:hover{ color:#483D8B;}
+
+
+a:hover{ color:#F08080;}
 
 
 

@@ -1,0 +1,57 @@
+body {
+	background-color: white;
+	background-image: url('../img/cville.jpg');
+
+
+	
+}
+
+h1{
+	position: static; 
+	color: white; 
+	font-size: 50px;
+	margin-top: 15%; 
+	margin-bottom: 0;
+	padding-top: 10px;  
+	padding-bottom: 5px; 
+	text-align: center;
+	font-family: 'Special Elite', cursive;
+	background-color: black; 	
+}
+
+nav ul{
+ 	
+ 	background-color: black; 
+ 	margin-top: 0; 
+ 	padding-bottom: 10px;
+ 	text-align: center; 
+ 	font-size: 14px;
+ 	font-family: 'Raleway', sans-serif;
+    
+}
+
+ 
+nav ul li{
+	display: inline;
+	border-right: 2px solid white;
+	padding-right: 2em; 
+	margin: 10px;
+	
+	
+}
+
+nav ul li:last-child{
+	border-right: none; 
+}
+
+a:link {
+	text-decoration: none; 
+	color: white; }
+
+a:visited {
+	color: #FFC0CB; 
+}
+
+a:hover{
+	color: #F08080;}
+
