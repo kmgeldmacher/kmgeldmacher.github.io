@@ -1,6 +1,6 @@
-body {
+html {
 	background-color: black;
-	background-image: url('../img/cville.jpg');
+	
 	
 
 }
@@ -9,13 +9,13 @@ h1{
 	position: static; 
 	color: white; 
 	font-size: 50px;
-	margin-top: 15%; 
+	margin-top: 5%; 
 	margin-bottom: 0;
 	padding-top: 10px;  
 	padding-bottom: 5px; 
 	text-align: center;
 	font-family: 'Special Elite', cursive;
-	background-color: black; 	
+	
 }
 
 nav ul{
@@ -54,3 +54,41 @@ a:visited {
 a:hover{
 	color: #F08080;}
 
+
+h2{
+	color: white; 
+	font-family: 'Special Elite', cursive;
+	margin-left: 10px; 
+	padding-bottom: 5px; 
+	border-bottom: 4px solid #F08080; 
+
+}
+
+h3{
+	color: white; 
+	font-family: 'Gudea', sans-serif;
+	margin-left: 10px;
+	margin-bottom: 20px;  
+
+	
+}
+
+p{
+	text-indent: 25px; 
+	color: white; 
+	margin-left: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px; 
+
+}
+
+p a:link{
+	color:#FFC0CB;
+}
+
+section{
+	padding-bottom: 20px; 
+	border-bottom: 1px solid #F08080; 
+}

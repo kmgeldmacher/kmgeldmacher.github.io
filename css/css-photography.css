@@ -1,6 +1,6 @@
-body {
+html {
 	background-color: black;
-	background-image: url('../img/cville.jpg');
+	
 	
 
 }
@@ -9,13 +9,13 @@ h1{
 	position: static; 
 	color: white; 
 	font-size: 50px;
-	margin-top: 15%; 
+	margin-top: 5%; 
 	margin-bottom: 0;
 	padding-top: 10px;  
 	padding-bottom: 5px; 
 	text-align: center;
 	font-family: 'Special Elite', cursive;
-	background-color: black; 	
+	
 }
 
 nav ul{
@@ -53,4 +53,3 @@ a:visited {
 
 a:hover{
 	color: #F08080;}
-
