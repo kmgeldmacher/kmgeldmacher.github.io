@@ -15,6 +15,7 @@ h1{
 	padding-bottom: 5px; 
 	text-align: center;
 	font-family: 'Special Elite', cursive;
+
 	
 }
 
@@ -53,3 +54,20 @@ a:visited {
 
 a:hover{
 	color: #F08080;}
+
+h2{
+	color: white; 
+	font-family: 'Special Elite', cursive;
+	margin-left: 10px; 
+	padding-bottom: 5px; 
+	border-bottom: 4px solid #F08080; 
+}
+
+section{
+    text-align: center;
+    margin:0;
+}
+
+img{
+	padding-bottom: 15px; 
+}
