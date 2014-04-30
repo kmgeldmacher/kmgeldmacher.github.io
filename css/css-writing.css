@@ -86,6 +86,11 @@ p{
 
 p a:link{
 	color:#FFC0CB;
+
+}
+
+p a:hover{
+	color: #F08080;
 }
 
 section{
