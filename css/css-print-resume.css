@@ -12,41 +12,44 @@ body{
 
 header{
 	background: transparent;
-	color: #483D8B; 
+	color: black; 
 	text-align: center;}
 
 
 h1{
 	margin:0 0 8px; padding:0 0 8px;
     font-size: 32px; 
-	font-family: 'Belleza', sans-serif;}
+	font-family: 'Belleza', sans-serif;
+	color:black;
 
+}
 
 p{
 
 	font-size: 16px;
 	font-family: 'Gudea', Sans-serif;
-	margin: 2px; padding: 5px; }
+	margin: 2px; padding: 5px; 
+color:black;}
 
 
 h2{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: black;}
 
 
 h3{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: black;}
 
 
 h4{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: black;}
 
 
 h5{
 	font-family: 'Belleza', sans-serif;
-	color: #483D8B;}
+	color: black;}
 
 
  body{
@@ -88,3 +91,7 @@ nav, footer{
 }
 
 #blog{ display: none}
+
+h1, h2, h3, h4, h5{
+	color: black
+}
